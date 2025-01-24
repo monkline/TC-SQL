@@ -1,0 +1,11 @@
+tqdm==4.59.0
+transformers
+argparse==1.1
+packaging==21.3
+scikit-learn
+seaborn
+matplotlib
+pandas
+tensorboardX
+tensorboard
+SciencePlots
